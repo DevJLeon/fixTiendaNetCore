@@ -1,8 +1,7 @@
 
-using Dominio;
+using Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Tienda-NetCore.Core.Entities;
 
 namespace Persistencia.Data.Configuration
 {
@@ -14,10 +13,10 @@ namespace Persistencia.Data.Configuration
             // utilizando el objeto 'builder'.
             builder.ToTable("Pais");
 
-            builder.Property(PaisConfiguration=>p.CodPais)
+            builder.Property(PaisConfiguration=>p.CodPais);
 
-            builder.HasKey(e => );
-            builder.Property(e => );
+            // builder.HasKey(e => );
+            // builder.Property(e => );
         }
     }
 }

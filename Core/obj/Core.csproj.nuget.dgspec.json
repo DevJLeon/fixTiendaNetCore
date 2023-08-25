@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolT01-037/Documents/netCore01/Tienda-NetCore/Core/Core.csproj": {}
+    "/home/apolT01-037/Documents/netCore01/fixTiendaNetCore/Core/Core.csproj": {}
   },
   "projects": {
-    "/home/apolT01-037/Documents/netCore01/Tienda-NetCore/Core/Core.csproj": {
+    "/home/apolT01-037/Documents/netCore01/fixTiendaNetCore/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolT01-037/Documents/netCore01/Tienda-NetCore/Core/Core.csproj",
+        "projectUniqueName": "/home/apolT01-037/Documents/netCore01/fixTiendaNetCore/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/home/apolT01-037/Documents/netCore01/Tienda-NetCore/Core/Core.csproj",
+        "projectPath": "/home/apolT01-037/Documents/netCore01/fixTiendaNetCore/Core/Core.csproj",
         "packagesPath": "/home/apolT01-037/.nuget/packages/",
-        "outputPath": "/home/apolT01-037/Documents/netCore01/Tienda-NetCore/Core/obj/",
+        "outputPath": "/home/apolT01-037/Documents/netCore01/fixTiendaNetCore/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolT01-037/.nuget/NuGet/NuGet.Config"

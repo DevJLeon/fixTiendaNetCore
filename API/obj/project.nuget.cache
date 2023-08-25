@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gtK3IdzhRkwyqvo62FaRlnM1Mb6V6KOmdMR4P9r4NSTduJe4xu8aRet4viCVL0SFQJUOD24yJR3cycyYAdQsXw==",
+  "dgSpecHash": "PXGePKJ9FUxE580z6CutYWVpZRI82QVt2CXRYoSmVS18oJ7qwxdCvX7TTWN3AqCj3C56oqFkoYBNzWfy653DXg==",
   "success": true,
-  "projectFilePath": "/home/apolT01-037/Documents/netCore01/Tienda-NetCore/API/API.csproj",
+  "projectFilePath": "/home/apolT01-037/Documents/netCore01/fixTiendaNetCore/API/API.csproj",
   "expectedPackageFiles": [
     "/home/apolT01-037/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/apolT01-037/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
