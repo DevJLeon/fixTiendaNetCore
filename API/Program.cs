@@ -1,9 +1,13 @@
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
+using API.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.ConfigureCors();
+//builder.Services.AddAplicacionServices();
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<TiendaContext>(optionsBuilder =>

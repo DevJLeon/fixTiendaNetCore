@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Core.Interfaces
 {
-    public interface IGenericRepo
+    public interface IPaisInterface
     {
         
     }

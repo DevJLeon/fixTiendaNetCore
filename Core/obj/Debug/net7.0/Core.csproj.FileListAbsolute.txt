@@ -10,3 +10,10 @@
 /home/apolT01-037/Documents/netCore01/Tienda-NetCore/Core/obj/Debug/net7.0/refint/Core.dll
 /home/apolT01-037/Documents/netCore01/Tienda-NetCore/Core/obj/Debug/net7.0/Core.pdb
 /home/apolT01-037/Documents/netCore01/Tienda-NetCore/Core/obj/Debug/net7.0/ref/Core.dll
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Core\obj\Debug\net7.0\Core.dll
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Core\obj\Debug\net7.0\Core.pdb

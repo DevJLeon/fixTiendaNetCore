@@ -13,3 +13,6 @@
 /home/apolT01-037/Documents/netCore01/Tienda-NetCore/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
 /home/apolT01-037/Documents/netCore01/Tienda-NetCore/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
 /home/apolT01-037/Documents/netCore01/Tienda-NetCore/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\T01-037\Documents\Joshua\fixTiendaNetCore\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
