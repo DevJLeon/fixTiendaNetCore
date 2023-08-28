@@ -1,3 +1,5 @@
+using Core.Interfaces;
+using Infrastructure.UnitOfWork;
 using Microsoft.AspNetCore.Cors.Infrastructure;
 
 namespace API.Extensions;
@@ -11,4 +13,10 @@ public static class ApplicationServiceExtensions
                 .AllowAnyMethod()           //WithMethods(*GET", "POST")
                 .AllowAnyHeader());         //WithHeaders(*accept*, "conten-type")
         });
+
+    public static void AddAplicacionServices (this IServiceCollection services){
+        //services.AdScoped<IPaisInterface,PaisRepository>();
+        //services.AddScoped<ITipoPersona, TipoPersonaRepository>();
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
+    }
 }
