@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\Core.csproj": {}
+    "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\Core.csproj": {
+    "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\T01-037\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\obj\\",
+        "outputPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T01-037\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -10,7 +10,7 @@ builder.Services.ConfigureCors();
 //builder.Services.AddAplicacionServices();
 
 builder.Services.AddControllers();
-builder.Services.AddDbContext<TiendaContext>(optionsBuilder =>
+builder.Services.AddDbContext<InventarioContext>(optionsBuilder =>
 {
     string ? connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
     optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));

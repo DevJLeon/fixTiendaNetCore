@@ -1474,6 +1474,7 @@
     "net7.0": [
       "Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
+      "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -1484,11 +1485,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj",
+      "projectPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj",
       "packagesPath": "C:\\Users\\T01-037\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\obj\\",
+      "outputPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\T01-037\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1520,6 +1521,10 @@
         "targetAlias": "net7.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[7.0.10, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[7.0.10, )"
           },
