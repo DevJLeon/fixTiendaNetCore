@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Core.Entities;
 
-    public class Estado: BaseEntity
+    public class Estado
     {
         [Key]
         public string? CodEstado { get; set; }

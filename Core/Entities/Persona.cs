@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 namespace Core.Entities;
 
-public class Persona : BaseEntity
+public class Persona
 {
     [Key]
     public string? IdPersona { get; set; }

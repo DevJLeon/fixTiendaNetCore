@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace API.Controller;
 public class RegionController : BaseApiController
 {
-    private readonly IUnitOfWork unitOfWork;
+    /*private readonly IUnitOfWork unitOfWork;
 
     public RegionController(IUnitOfWork unitOfWork)
     {
@@ -21,7 +21,5 @@ public class RegionController : BaseApiController
     {
         var regiones = await unitOfWork.Regiones.GetAllAsync();
         return Ok(regiones);
-    }
-
-    [HttpGet]
+    }*/
 }

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
     "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Core\\Core.csproj": {
@@ -57,14 +57,14 @@
         }
       }
     },
-    "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\T01-037\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T01-037\\AppData\\Roaming\\NuGet\\NuGet.Config"

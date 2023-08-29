@@ -1,23 +1,24 @@
 using Core.Interfaces;
 using Infrastructure.Data;
+using Infrastructure.Repository;
 
 namespace Infrastructure.UnitOfWork;
 public class UnitOfWork : IUnitOfWork, IDisposable
 {
-    private readonly InvenarioContext context;
+    private readonly TiendaContext context;
 
     private PaisRepository _paises;
 
-    private TipoPersonaRepository _tipoPersonas;
+    //private TipoPersonaRepository _tipoPersonas;
     
-    private RegionRepository _regiones;
+    //private RegionRepository _regiones;
 
-    public UnitOfWork (InventarioContext _context)
+    public UnitOfWork (TiendaContext _context)
     {
         context = _context;
     }
 
-    public IPaisInterface Paises
+    public IPais Paises
     {
         get{
             if(_paises == null){
@@ -27,7 +28,7 @@ public class UnitOfWork : IUnitOfWork, IDisposable
         }
     }
 
-    public ITipoPersona TipoPersonas
+    /*public ITipoPersona TipoPersonas
     {
         get{
             if(_tipoPersonas == null){
@@ -35,5 +36,14 @@ public class UnitOfWork : IUnitOfWork, IDisposable
             }
             return _paises;
         }
+    }*/
+
+    public void Dispose ()
+    {
+        context.Dispose();
+    }
+    public async Task <int> SaveAsync()
+    {
+        return await context.SaveChangesAsync();
     }
 }

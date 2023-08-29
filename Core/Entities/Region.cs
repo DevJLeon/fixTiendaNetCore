@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 namespace Core.Entities;
-    public class Region : BaseEntity
+    public class Region
     {
         [Key]
         public string? CodRegion { get; set; }

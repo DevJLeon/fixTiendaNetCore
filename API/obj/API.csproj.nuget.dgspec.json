@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj": {}
+    "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj": {
+    "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj",
+        "projectPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\API.csproj",
         "packagesPath": "C:\\Users\\T01-037\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\obj\\",
+        "outputPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T01-037\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -42,6 +42,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.10, )"
@@ -137,14 +141,14 @@
         }
       }
     },
-    "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\T01-037\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\T01-037\\Documents\\Joshua\\fixTiendaNetCore\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T01-037\\AppData\\Roaming\\NuGet\\NuGet.Config"
